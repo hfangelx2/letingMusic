@@ -1,0 +1,67 @@
+#ifdef __OBJC__
+
+#import "AppDelegate.h"
+#import "MusicViewController.h"
+#import "MusicView.h"
+#import "MusicTableViewController.h"
+#import "MusicTableViewCell.h"
+#import "MusicCollectionViewController.h"
+#import "MusicCollectionView.h"
+#import "MusicCollectionViewCell.h"
+#import "MusicButton.h"
+#import "MusicLabel.h"
+#import "MusicBarButtonItem.h"
+#import "MusicCollectionViewFlowLayout.h"
+#import "MusicScrollView.h"
+#import "MusicNavigationController.h"
+#import "MusicTextField.h"
+#import "PlayModel.h"
+#import "MBProgressHUD.h"
+#import "CollectSQL.h"//收藏的数据库
+#import "SqlDateBase.h"//数据库
+#import "Masonry.h"
+#import "AFNetworking.h"
+#import "AFNGet.h"
+#import "MJRefresh.h"
+#import "UIImageView+WebCache.h"
+#import <Reachability.h>
+
+#import "PlayingController.h"
+
+
+
+#if DEBUG
+
+#define NSLog(FORMAT, ...) fprintf(stderr,"[%s:%d行] %s\n",[[[NSString stringWithUTF8String:__FILE__] lastPathComponent] UTF8String], __LINE__, [[NSString stringWithFormat:FORMAT, ##__VA_ARGS__] UTF8String]);
+
+#else
+
+#define NSLog(FORMAT, ...) nil
+
+#endif
+
+#define iPHone6Plus ([UIScreen mainScreen].bounds.size.height == 736) ? YES : NO
+
+#define iPHone6 ([UIScreen mainScreen].bounds.size.height == 667) ? YES : NO
+
+#define iPHone5 ([UIScreen mainScreen].bounds.size.height == 568) ? YES : NO
+
+#define iPHone4 ([UIScreen mainScreen].bounds.size.height == 480) ? YES : NO
+
+
+#define MYWIDTH  [[UIScreen mainScreen] bounds].size.width
+#define MYHEIGHT  [[UIScreen mainScreen] bounds].size.height
+
+
+#define IPHONE6W 375
+#define IPHONE6H 667
+
+
+#define WIDTH  MYWIDTH / 375
+#define HEIGHT MYHEIGHT / 667
+
+
+#endif
+
+
+
