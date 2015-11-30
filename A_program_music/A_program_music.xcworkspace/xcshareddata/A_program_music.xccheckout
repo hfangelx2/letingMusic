@@ -12,20 +12,24 @@
 	<dict>
 		<key>263EA32ADE59F597DAD373E0DFB4FC2A75095923</key>
 		<string>http://git.oschina.net/ytc19930125/haoMusic</string>
+		<key>899BE12FE183111AECC6873C03E279B3C994B9AE</key>
+		<string>https://github.com/hfangelx2/letingMusic.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
 	<string>A_program_music/A_program_music.xcworkspace</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
 		<key>263EA32ADE59F597DAD373E0DFB4FC2A75095923</key>
+		<string>../../../haoMusic</string>
+		<key>899BE12FE183111AECC6873C03E279B3C994B9AE</key>
 		<string>../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>http://git.oschina.net/ytc19930125/haoMusic</string>
+	<string>https://github.com/hfangelx2/letingMusic.git</string>
 	<key>IDESourceControlProjectVersion</key>
 	<integer>111</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>263EA32ADE59F597DAD373E0DFB4FC2A75095923</string>
+	<string>899BE12FE183111AECC6873C03E279B3C994B9AE</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
@@ -35,6 +39,14 @@
 			<string>263EA32ADE59F597DAD373E0DFB4FC2A75095923</string>
 			<key>IDESourceControlWCCName</key>
 			<string>haoMusic</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>899BE12FE183111AECC6873C03E279B3C994B9AE</string>
+			<key>IDESourceControlWCCName</key>
+			<string>letingMusic</string>
 		</dict>
 	</array>
 </dict>

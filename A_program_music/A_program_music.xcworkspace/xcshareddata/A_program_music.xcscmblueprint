@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "899BE12FE183111AECC6873C03E279B3C994B9AE",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "899BE12FE183111AECC6873C03E279B3C994B9AE" : 0,
+    "263EA32ADE59F597DAD373E0DFB4FC2A75095923" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "760BC122-A2DE-4DF3-BDC5-C9AFB71BD368",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "899BE12FE183111AECC6873C03E279B3C994B9AE" : "letingMusic\/",
+    "263EA32ADE59F597DAD373E0DFB4FC2A75095923" : "haoMusic"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "A_program_music",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "A_program_music\/A_program_music.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "http:\/\/git.oschina.net\/ytc19930125\/haoMusic",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "263EA32ADE59F597DAD373E0DFB4FC2A75095923"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/hfangelx2\/letingMusic.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "899BE12FE183111AECC6873C03E279B3C994B9AE"
+    }
+  ]
+}
